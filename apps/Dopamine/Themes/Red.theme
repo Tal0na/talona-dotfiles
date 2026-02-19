@@ -1,13 +1,13 @@
 {
   "name": "Zune",
   "creator": {
-    "name": "Digimezzo",
+    "name": "talona",
     "email": "digimezzo@outlook.com"
   },
   "coreColors": {
-    "primaryColor": "#A40000",
-    "secondaryColor": "#A40000",
-    "accentColor": "#A40000"
+    "primaryColor": "#DC143C",
+    "secondaryColor": "#DC143C",
+    "accentColor": "#DC143C"
   },
   "darkColors": {
     "windowButtonIcon": "#808080",
@@ -29,7 +29,7 @@
     "paneSeparators": "transparent",
     "settingsSeparators": "#373737",
     "contextMenuSeparators": "#373737",
-    "scrollBars": "#A40000",
+    "scrollBars": "#DC143C",
     "searchBox": "#212121",
     "searchBoxText": "#ECDCB2",
     "searchBoxIcon": "#7f7f7f",
@@ -61,7 +61,7 @@
     "paneSeparators": "transparent",
     "settingsSeparators": "#d7d7d7",
     "contextMenuSeparators": "#d7d7d7",
-    "scrollBars": "#A40000",
+    "scrollBars": "#DC143C",
     "searchBox": "#ededed",
     "searchBoxText": "#000",
     "searchBoxIcon": "#838383",
