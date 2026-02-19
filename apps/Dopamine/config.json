@@ -10,7 +10,7 @@
 	"fontSize": 13,
 	"theme": "Dopamine",
 	"showWelcome": false,
-	"followSystemTheme": false,
+	"followSystemTheme": true,
 	"useLightBackgroundTheme": false,
 	"followSystemColor": false,
 	"followAlbumCoverColor": false,
