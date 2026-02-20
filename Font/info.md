@@ -1,6 +1,10 @@
-# Link
-## Fira-Code-Nerd
-- https://github.com/Trzcin/Fira-Code-Nerd
+# Fonte
 
----
+
+## nerd-fonts 
+https://www.nerdfonts.com/font-downloads
+https://github.com/ryanoasis/nerd-fonts
+
+### Fira-Code-Nerd
+  
 
